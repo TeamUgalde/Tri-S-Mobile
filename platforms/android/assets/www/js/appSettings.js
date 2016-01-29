@@ -5,6 +5,6 @@
 */
 
 var appSettings = {
-	postBaseURL: 'http://ws.tec.siua.ac.cr',
+	postBaseURL: 'http://ws.tec.siua.ac.cr/TRI-S-webService-1.0.0',
 	submitURL: '/mobileRequest'
 }
